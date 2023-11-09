@@ -1,0 +1,1 @@
+This is the beginning of my frontend development journey with Engineering Career Expo (ECX) 4.0
